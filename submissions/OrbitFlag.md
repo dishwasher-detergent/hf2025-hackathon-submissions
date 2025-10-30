@@ -3,10 +3,6 @@
 ## GitHub handle
 [dishwasher-detergent](https://github.com/dishwasher-detergent)
 
-<!--
-@adityaoberai
--->
-
 ## Project Title
 Orbit Flag
 
